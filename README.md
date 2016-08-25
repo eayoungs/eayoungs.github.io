@@ -1,5 +1,5 @@
 # Readme
-This is the readme for the http://pdxdata.org which is modeled after the [Ann Arbor R User Group webpage](annarborrusergroup.github.io) repository.
+This is the readme for the the data-science blog of Eric Allen Youngson [eayoungs](https://eayoungs.github.io/) which is modeled after the [Portland (Oregon) Data Science group website](http://pdxdata.org ) which is modeled after the [Ann Arbor R User Group webpage](annarborrusergroup.github.io) repository.
 
 The site is built using [Jekyll](http://jekyllrb.com/) and hosted using [GitHub Pages](https://pages.github.com).
 
