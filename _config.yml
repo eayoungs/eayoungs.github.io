@@ -1,10 +1,10 @@
 # Site settings
-title: PDX Data Science
-email: pdxdatascience@gmail.com
-description:  Open Meetups and more
+title: eayoungs data science
+email: eayoungs@gmail.com
+description:  Adventures in data
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://pdxdata.github.io" # the base hostname and protocol for your site
-github_username:  pdxdata
+url: "https://eayoungs.github.io/" # the base hostname and protocol for your site
+github_username:  eayoungs
 
 # Build settings
 markdown: kramdown
