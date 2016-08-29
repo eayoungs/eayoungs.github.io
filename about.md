@@ -2,15 +2,15 @@
 layout: page
 title: About
 permalink: /about/
-target: http://pdxdata.github.io/about
+target: http://eayoungs.github.io/about
 ---
 
-Welcome to PDX Data Science
+Adventures in Data
 ===========
 
-We're all about openness. We are a consortium of independnet Meetups that are part of the larger data science conversation in Portland. This site collects links to all the talks (and data!) from recent events and helps you connect to the conversation. 
+Working on magical things in Portland, Oregon.
 
-The current members of this Meetup Consortium are:
+Affiliates:
 
 * [Portland Data Science Group](http://www.meetup.com/Portland-Data-Science-Group/)
 * [Portland Data User Group](http://www.meetup.com/Portland-Data-User-Group/)
