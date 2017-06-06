@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title:  "Introduction"
+title:  "State Department Cleantech Challenge - Code for San Francisco"
 date:   2016-06-06
 type: blog post
 meetup: 
